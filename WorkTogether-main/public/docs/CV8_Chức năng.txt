@@ -1,0 +1,30 @@
+- Admin có được giao việc
+admin xoá chat box
+Báo cáo -> nhật ký công việc
+giao -> chuyển thành danh từ
+  thực thể: nhật ký MaGhinhan, Noidung, Ngaytao (datetime), MANV, MACV
+NHANVIEN -> NGUOIDUNG
+SƠ ĐỒ CHỨC NĂNG - > QUẢN LÝ NHẬT KÝ (NẰM TRONG QUẢN LÝ CÔNG VIỆC ):TÌM KIẾM, IN NHẬT KÝ, CẬP NHẬT NHẬT KÝ (NHÂN VIÊN)
+ 
+
+
+SILDE BAR:
+chức năng của người dùng:
+
+
+tạo công việc
+giao việc
+xem nhật ký nhân viên
+thống kê
+chấm điểm
+chatbox
+
+thy- > thống kê
+
+
+nhân viên:
+xem công việc
+ghi nhật ký
+thống kê
+xem điểm
+chatbox
